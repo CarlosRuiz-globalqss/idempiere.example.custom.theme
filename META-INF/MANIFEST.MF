@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: idempiere.example.custom.theme
+Bundle-SymbolicName: idempiere.example.custom.theme;singleton:=true
+Bundle-Version: 8.1.0.qualifier
+Fragment-Host: org.adempiere.ui.zk;bundle-version="8.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Jetty-WarFragmentFolderPath: /
+Bundle-ClassPath: .
+Automatic-Module-Name: test.custom.theme
