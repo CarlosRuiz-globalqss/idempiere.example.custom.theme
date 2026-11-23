@@ -1,6 +1,4 @@
-html,body {
-	font-family: 'Merriweather', serif;
-}
-[class*="z-"]:not([class*="z-icon-"]):not([class*="z-group-icon-"]) {
-    font-family: 'Merriweather', serif;
+:root {
+	--zk-base-title-font-family: 'Merriweather', serif;
+	--zk-color-primary: #57E389;
 }
